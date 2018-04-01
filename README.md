@@ -1,1 +1,1 @@
-Just a Number displays the number of years, as a decimal, elapsed since the midnight of the given day. Based on the Chrome extension [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj?hl=en)
+Just a Number displays the number of years, as a decimal, elapsed since the midnight of the given day. Based on the Chrome extension [Motivation](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj?hl=en).
