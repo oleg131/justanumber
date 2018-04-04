@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Bitter|Lora|Rokkitt');
+
+
+html {
+  height: 100vh;
+}
+
+body {
+  background-color: #151E3F;
+  font-family: 'Raleway', 'Avenir', 'helvetica neue', helvetica, arial, sans-serif;
+  color: #6699CC;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none
+}
+a:focus,
+a:hover {
+    color: #23527c;
+    text-decoration: underline
+}
+a:focus {
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px
+}
+
+.age-div {
+  max-width: 30rem;
+  width: 80vw;
+}
+
+.age-label {
+  color: #C16E70;
+  font-size: 3.2rem;
+  line-height: 1;
+  margin: 0 0 0 2px;
+}
+
+.count {
+  color: #F2F3D9;
+  margin: 0;
+  line-height: 1;
+  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  vertical-align: top
+}
+
+.count sup {
+  font-size: 40%;
+  margin-left: 7px;
+  top: -1.1em;
+}
+
+footer {
+  padding-top: 0.5rem;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  -webkit-justify-content: center;
+}
+
+.top-buffer { margin-top: 50px; }
+
+.btn-primary {
+  background-color: #0BE !important;
+}
